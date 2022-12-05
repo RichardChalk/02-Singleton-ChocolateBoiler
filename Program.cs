@@ -15,6 +15,11 @@ namespace Chocolate_Lazy
             // 2. Rita ditt eget UML diagram i Draw.io som beskriver din kod
 
             // OBS: Exemplet i pdf filen är skriven i Java... du ska så klart skriva i C#!
+
+            // OBS2: Detta facit är inte en lösning på Chocolate Boiler från pdf:en.
+            // Denna facit visar skillnaden mellan Lazy, Eager Loading
+            // https://www.inmotionhosting.com/blog/lazy-loading-vs-eager-loading/
+
             // ///////////////////////////////////////////////////////////////////////////
 
             // Lazy instantiation
